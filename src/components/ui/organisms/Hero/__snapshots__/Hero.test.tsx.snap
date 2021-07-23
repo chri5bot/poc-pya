@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Organisms/Hero renders hero with codename 1`] = `
+<div
+  className="hero"
+>
+  <div
+    className="content"
+  >
+    <h2>
+      test
+    </h2>
+  </div>
+</div>
+`;
